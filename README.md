@@ -1,4 +1,5 @@
 # Installation
+* pkg install git
 * git clone https://github.com/Referuz/uknow.git
 * cd uknow
 * chmod +x install.sh
